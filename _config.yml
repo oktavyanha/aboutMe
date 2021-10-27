@@ -5,7 +5,7 @@ title: A Brief Introduction of Me
 description: > # this means to ignore newlines until "baseurl:"
   A Beginner in quantum realm. has create thousands of probability, less observed in reality
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: OktavyanH # DO NOT include the @ character, or else the build will fail!
+github_username:  oktavyanha # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
